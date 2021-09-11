@@ -7,7 +7,7 @@ Whats bot - Ravindu Manoj
 
 */
 
-'sew';
+'axe';
 
 class Base {
     constructor(client) {
